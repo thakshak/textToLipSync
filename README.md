@@ -10,7 +10,7 @@ https://www.meryproject.com/
 #HOW TO USE IT.
 -download mery rig from the above website.
 -copy contents from script directory in this repo to your maya script directory.
--import rig it in maya.
+-import rig in maya.
 -open maya's python script editor and enter the following commands
 
 import mery_talks
